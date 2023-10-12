@@ -1,0 +1,1 @@
+print("Lab 1 (Fall 2023) - Python Print Function\nThe function is declared like this:\nprint('what to print')")
