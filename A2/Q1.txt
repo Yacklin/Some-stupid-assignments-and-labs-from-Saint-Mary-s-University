@@ -1,0 +1,6 @@
+(1)
+yes it does. original variable is repointed to a new array whose size is 20.
+(2)
+in the for loop, three factors are required. one is initial value of looping,
+second one is terminational condition, third one is step, correspondingly shown in the parenthesis of for loop in java.
+Obviously, j doesn't have and an error might be thrown
