@@ -1,0 +1,14 @@
+F:\business_Programming_course\project1\bin\Debug\net8.0\project1.exe
+F:\business_Programming_course\project1\bin\Debug\net8.0\project1.deps.json
+F:\business_Programming_course\project1\bin\Debug\net8.0\project1.runtimeconfig.json
+F:\business_Programming_course\project1\bin\Debug\net8.0\project1.dll
+F:\business_Programming_course\project1\bin\Debug\net8.0\project1.pdb
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.AssemblyInfoInputs.cache
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.AssemblyInfo.vb
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.vbproj.CoreCompileInputs.cache
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.dll
+F:\business_Programming_course\project1\obj\Debug\net8.0\refint\project1.dll
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.pdb
+F:\business_Programming_course\project1\obj\Debug\net8.0\project1.genruntimeconfig.cache
+F:\business_Programming_course\project1\obj\Debug\net8.0\ref\project1.dll
